@@ -1,10 +1,11 @@
-package templates
+package samples
 
+import org.apache.spark._
+import org.apache.spark.mllib.regression._
+import org.apache.spark.mllib.linalg._
 import org.apache.spark.mllib.classification._
-import org.apache.spark.mllib.evaluation.BinaryClassificationMetrics
-import org.apache.spark.mllib.linalg.Vectors
-import org.apache.spark.mllib.regression.LabeledPoint
-import org.apache.spark.{SparkContext, SparkConf}
+import org.apache.spark.mllib.evaluation._
+
 
 object ClassifyMailWithSVMWithSGD {
 

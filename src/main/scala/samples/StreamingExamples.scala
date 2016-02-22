@@ -1,7 +1,4 @@
-package templates
-
-import org.apache.log4j.{Level, Logger}
-import org.apache.spark.Logging
+package samples
 
 
 /** Utility functions for Spark Streaming examples. */

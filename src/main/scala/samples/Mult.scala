@@ -1,4 +1,4 @@
-package babylon.samples
+package SparkApp.samples
 
 /**
   * Created by mrez on 2/16/16.

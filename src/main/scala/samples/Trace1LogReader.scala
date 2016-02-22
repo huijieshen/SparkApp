@@ -1,10 +1,8 @@
-package templates
+package samples
 
-//import com.datastax.demo.mapper.CSVMapAndSave
-//import com.datastax.demo.util.ArgHelper
-
+import org.apache.spark._
+import org.apache.spark.sql._
 import babylon.helpers.Configuration
-import org.apache.spark.sql.SQLContext
 
 
 // One method for defining the schema of an RDD is to make a case class with the desired column

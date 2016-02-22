@@ -1,4 +1,4 @@
-package babylon.samples
+package SparkApp.samples
 
 import babylon.helpers
 

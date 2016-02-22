@@ -1,4 +1,4 @@
-package templates
+package samples
 
 import babylon.helpers.Configuration
 

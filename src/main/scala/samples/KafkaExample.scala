@@ -1,7 +1,9 @@
-package templates
+package samples
+
+// not necessary in Spark 1.3+
 
 import org.apache.spark._
-import org.apache.spark.streaming._ // not necessary in Spark 1.3+
+import org.apache.spark.streaming._
 
 object KafkaExample {
   def main(args: Array[String]) {

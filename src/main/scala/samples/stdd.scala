@@ -1,7 +1,4 @@
-package templates
-
-import babylon.helpers.Configuration
-import org.apache.spark.sql.SQLContext
+package samples
 
 object stdd {
 

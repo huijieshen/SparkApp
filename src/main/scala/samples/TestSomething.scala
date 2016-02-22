@@ -1,4 +1,4 @@
-package templates
+package samples
 
 object TestSomething {
   def main(args: Array[String]): Unit = {
